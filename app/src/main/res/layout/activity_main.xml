@@ -7,7 +7,6 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="hiiir.proxywithtemplesample.MainActivity"
     >
 
     <TextView
@@ -21,7 +20,7 @@
     <android.support.v7.widget.RecyclerView
         android:id="@+id/cardRecyclerView"
         android:layout_below="@+id/helloTitle"
-        android:layout_height="450dp"
+        android:layout_height="350dp"
         android:layout_width="match_parent"
         android:background="@android:color/holo_green_dark"
         >
